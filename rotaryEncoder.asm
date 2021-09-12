@@ -13,6 +13,10 @@
 ; GPIO,2 entrada (interrupcao)
 ; GPIO,4 saida
 ; GPIO,5 saida
+;
+; v.1.1 - 11/09/2021
+; Alterado fuse bit _MCLRE_OFF _para MCLRE_ON
+
 
  list		p=12f675		; MCU utilizada
 
